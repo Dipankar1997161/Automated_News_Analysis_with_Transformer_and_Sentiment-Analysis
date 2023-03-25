@@ -1,4 +1,4 @@
-# Automated_News_Analysis_with_Transformer_and_Sentiment-Analysis
+# NLP-Based_News_Article_Summarizer_and_Sentiment_Analyzer
 
 ### Overview
 
