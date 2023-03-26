@@ -1,5 +1,6 @@
 # NLP-Based_News_Article_Summarizer_and_Sentiment_Analyzer
-
+### UPDATE!!!
+There is an error in the program, which I predicted when developing its WEB-API. Resolving it since my environment has changed. HOLD UP!!!!
 ### Overview
 
 This repo captures Sentiment analysis and News Summarizer using Natural Language Processing and HuggingFace.
